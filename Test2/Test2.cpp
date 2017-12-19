@@ -21,7 +21,7 @@ int fun(int a, int b)
 	c = a + b;
 	return c;
 }*/
-#include "stdafx.h"
+/*#include "stdafx.h"
 #include<iostream>
 int main(void)
 {
@@ -31,4 +31,12 @@ int main(void)
 	s = pi*4.0*4.0;
 	cout << s << endl;
 	return 0;
+}
+*/
+#include "stdafx.h"
+#include<iostream>
+#include<iomanip>
+int main(void)
+{
+
 }
